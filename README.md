@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=F7CE10&center=false&lines=Hi+!+👋+Im+Fyz.)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=dfbb13&center=false&lines=Hi+!+👋+Im+Fyz.)](https://git.io/typing-svg)
 *Some kind of weird dream maker 🏳‍🌈*
 ```java
 public class Fyz {
@@ -29,8 +29,7 @@ public class Fyz {
 
 <br/>  
 
-
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=F7DD0C&width=453&lines=Tools+%26+Programming+languages+I+use+%F0%9F%92%BB)](https://git.io/typing-svg)
+## Tools & Programming languages I use 💻
 <a href="#" target="_blank">
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 5px;"/>
 </a>
@@ -61,10 +60,12 @@ public class Fyz {
 <a href="#" target="_blank">
 <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" style="margin-bottom: 5px;"/>
 </a> 
-
+<a href="#" target="_blank">
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 5px;"/>
+</a> 
 <br/>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=F7DD0C&width=453&lines=Where+to+find+me+%3F+%F0%9F%A4%94)](https://git.io/typing-svg)
+## Where to find me ? 🤔
 <a href="https://github.com/fyzrdc" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -81,26 +82,24 @@ public class Fyz {
 
 <br/>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=F7DD0C&width=453&lines=Stats+%F0%9F%93%88)](https://git.io/typing-svg)
-<img src="https://komarev.com/ghpvc/?username=fyzrdc&&style=flat-square"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fyzrdc&hide_border=true&layout=compact"/> 
+## Stats 📈
+<img src="https://komarev.com/ghpvc/?username=fyzrdc&color=yellow&style=flat-square"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fyzrdc&hide_border=true&theme=dracula"/> 
 
-<img src="https://github-readme-stats.vercel.app/api?username=fyzrdc&show_icons=true&count_private=true&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=fyzrdc&show_icons=true&count_private=true&hide_border=true&theme=dracula"/>
 
 <br/>  
 
-
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=F7DD0C&width=453&lines=Want+to+help+me+%3F+(Thanks+!)+%F0%9F%92%9B)](https://git.io/typing-svg)
+## Want to help me ? (Thanks !) 💛
 <div>
             <a href="https://paypal.me/fyzd" target="_blank" style="display: inline-block;">
                 <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square"/>
+                    src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
             </a>
             </div>
 <br />
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=F7DD0C&width=453&lines=Tool+used+for+this+README.md+file+%F0%9F%93%81)](https://git.io/typing-svg)
+## Tool used for this README 📁
 
 - ["Awesome Github Profile"](https://awesomegithubprofile.tech/) - *Abhishek Naidu*
 
