@@ -4,6 +4,7 @@
 public class Fyz {
   
   private String name;
+  private int age;
   private String[] pronouns;
   private String[] interests;
   private String location;
@@ -11,8 +12,9 @@ public class Fyz {
   private String color;
   
   Fyz() {
-    this.name = "Juliette";
-    this.pronouns = {"she/her", "he/him"};
+    this.name = "Fyz";
+    this.age = 16;
+    this.pronouns = {"he/him"};
     this.interests = {"Development", "Video games", "Video editing", "Design"};
     this.location = "Paris, France";
     this.website = "https://fyzproject.fr";
