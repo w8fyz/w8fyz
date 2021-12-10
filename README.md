@@ -94,7 +94,7 @@ public class Fyz {
 
 ## Want to help me ? (Thanks !) 💛
 <div>
-            <a href="https://paypal.me/fyzd" target="_blank" style="display: inline-block;">
+            <a href="https://paypal.me/fyzdev" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
             </a>
