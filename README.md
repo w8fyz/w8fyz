@@ -17,7 +17,7 @@ public class Fyz {
     this.pronouns = {"he/him"};
     this.interests = {"Development", "Video games", "Video editing", "Design"};
     this.location = "Paris, France";
-    this.website = "https://fyzproject.fr";
+    //this.website = "https://fyzproject.fr"; Currently out of service
     this.color = "Yellow";
     
     doThings();
