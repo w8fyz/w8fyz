@@ -8,22 +8,31 @@ public class Fyz {
   private String[] pronouns;
   private String[] interests;
   private String location;
-  private String website;
-  private String color;
+  private URL website;
+  private Color color;
   
   Fyz() {
-    this.name = "Fyz";
+    this.name = "Thibeau";
     this.age = 17;
     this.pronouns = {"he/him"};
     this.interests = {"Development", "Video games", "Video editing", "Design"};
     this.location = "Paris, France";
-    //this.website = "https://fyzproject.fr"; Currently out of service
-    this.color = "Yellow";
+    this.website = new URL("https://fyz.center"); //NEW
+    this.color = Color.decode("#DEAF2C");
     
     doThings();
     drinkCoffee();
 
   }
+  
+  public String getMood() {
+    return "Happy";
+  }
+  
+    /*TODO :
+      Fix the bug creating an infinite number of 
+      Fyz clones taking over the world
+    */
 
 }
 ```
@@ -77,7 +86,7 @@ public class Fyz {
 <a href="https://youtube.com/c/FyzRDC" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-<a href="https://discord.gg/rdc" target="_blank">
+<a href="discord://click-me/users/205052390259294210" target="_blank">
 <img src=https://img.shields.io/badge/discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a> 
 <br/>  
