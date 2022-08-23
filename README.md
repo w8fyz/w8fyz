@@ -112,6 +112,6 @@ public class Fyz {
 
 ## Tool used for this README 📁
 
-- ["Awesome Github Profile"](https://awesomegithubprofile.tech/) - *Abhishek Naidu*
+- ["Awesome Github Profile"](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - *Abhishek Naidu*
 
 *- Fyz 💛*
