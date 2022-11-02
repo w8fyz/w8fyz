@@ -13,7 +13,7 @@ public class Fyz {
   
   Fyz() {
     this.name = "Thibeau";
-    this.age = 17;
+    this.age = 18;
     this.pronouns = {"he/him"};
     this.interests = {"Development", "Video games", "Video editing", "Design"};
     this.location = "Paris, France";
