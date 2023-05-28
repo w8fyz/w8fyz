@@ -94,10 +94,10 @@ public class Fyz {
 <br/>
 
 ## Stats 📈
-<img src="https://komarev.com/ghpvc/?username=fyzrdc&color=yellow&style=flat-square"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fyzrdc&hide_border=true&theme=dracula"/> 
+<img src="https://komarev.com/ghpvc/?username=w8fyz&color=yellow&style=flat-square"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w8fyz&hide_border=true&theme=dracula"/> 
 
-<img src="https://github-readme-stats.vercel.app/api?username=fyzrdc&show_icons=true&count_private=true&hide_border=true&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api?username=w8fyz&show_icons=true&count_private=true&hide_border=true&theme=dracula"/>
 
 <br/>  
 
