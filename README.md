@@ -13,11 +13,11 @@ public class Fyz {
   
   Fyz() {
     this.name = "Thibeau";
-    this.age = 18;
+    this.age = 19;
     this.pronouns = {"he/him"};
     this.interests = {"Development", "Video games", "Video editing", "Design"};
     this.location = "Paris, France";
-    this.website = new URL("https://fyz.center"); //NEW
+    this.website = new URL("https://fyz.sh");
     this.color = Color.decode("#DEAF2C");
     
     doThings();
