@@ -71,16 +71,6 @@ public class Fyz {
 <img src="https://github-readme-stats.vercel.app/api?username=w8fyz&show_icons=true&count_private=true&hide_border=true&theme=dracula"/>
 
 <br/>  
-
-## Want to help me ? (Thanks !) 💛
-<div>
-            <a href="https://paypal.me/fyzdev" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
-            </a>
-            </div>
-<br />
-
 ## Tool used for this README 📁
 
 - ["Awesome Github Profile"](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - *Abhishek Naidu*
