@@ -1,78 +1,19 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=dfbb13&center=false&lines=Hi+!+👋+Im+Fyz.)](https://git.io/typing-svg)
-*Some kind of weird dream maker 🏳‍🌈*
-```java
-public class Fyz {
-  
-  private String name;
-  private int age;
-  private String[] pronouns;
-  private String[] interests;
-  private String location;
-  private URL website;
-  private Color color;
-  
-  Fyz() {
-    this.name = "Thibeau";
-    this.age = 21;
-    this.pronouns = {"he/him"};
-    this.interests = {"Development", "Video games", "Video editing", "Design"};
-    this.location = "Paris, France";
-    this.website = new URL("https://fyz.sh");
-    this.color = Color.decode("#DEAF2C");
-    
-    doThings();
-    drinkCoffee();
+<img width="1920" height="308" alt="image" src="https://github.com/user-attachments/assets/9bd5e748-eabe-434c-917d-957db0f74d00" />
 
-  }
-  
-  public String getMood() {
-    return "Happy";
-  }
-  
-    /*TODO :
-      Fix the bug creating an infinite number of 
-      Fyz clones taking over the world
-    */
+### Im [fyz](https://fyz.sh), Java FullStack DevOps
 
-}
-```
-  
+#### You might know me from one of these projects:
 
-<br/>  
+- [FreshPerf.fr](https://freshperf.fr) Co-Founder & Administrator
+- [TaleName](https://talename.net) Founder
+- [PVE4J](https://github.com/FreshPerf/PVE4J) Maintainer (FreshPerf)
+- [NameMC Extras](https://github.com/NameMC-Extras/NameMC-Extras) Contributor
+- [Architect](https://github.com/w8fyz/Architect) Creator & Maintainer
+- [Fiber](https://github.com/w8fyz/Fiber) — Creator & Maintainer
+- [w8](https://discord.gg/w8) Founder & Owner
+- [Croc-It](https://croc-it.fr) Developer
+- [protoco.ls](https://protoco.ls) Founder (Coming Soon)
+- [nocta.li](https://nocta.li) Founder (Coming Soon)
 
-## Tools & Programming languages I use 💻
-<a href="#" target="_blank" style=""><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 5px;"/></a>
-<a href="#" target="_blank"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="margin-bottom: 5px;"/></a>
-<a href="#" target="_blank"><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" style="margin-bottom: 5px;"/></a>
-<a href="#" target="_blank"><img alt="Photoshop" src="https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" style="margin-bottom: 5px;"/></a>
-<a href="#" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 5px;"/></a>
-<a href="#" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 5px;"/></a>
-<a href="#" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin-bottom: 5px;"/></a>
-<a href="#" target="_blank"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" style="margin-bottom: 5px;"/></a> 
-<a href="#" target="_blank"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" style="margin-bottom: 5px;"/></a> 
-<a href="#" target="_blank"><img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" style="margin-bottom: 5px;"/></a> 
-<a href="#" target="_blank"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 5px;"/></a> 
 
-<br/>
-
-## Where to find me ? 🤔
-<a href="https://github.com/fyzrdc" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;"/></a>
-<a href="https://twitter.com/fyzrdc" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/></a>
-<a href="https://youtube.com/c/FyzRDC" target="_blank"><img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt=youtube style="margin-bottom: 5px;" /></a>
-<a href="https://discord.freshperf.fr" target="_blank"><img src="https://img.shields.io/badge/discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;" /></a>  
-<br/>  
-
-<br/>
-
-## Stats 📈
-<img src="https://komarev.com/ghpvc/?username=w8fyz&color=yellow&style=flat-square"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w8fyz&hide_border=true&theme=dracula"/> 
-
-<img src="https://github-readme-stats.vercel.app/api?username=w8fyz&show_icons=true&count_private=true&hide_border=true&theme=dracula"/>
-
-<br/>  
-## Tool used for this README 📁
-
-- ["Awesome Github Profile"](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - *Abhishek Naidu*
-
-*- Fyz 💛*
+#### > [chat with me here](https://discord.gg/w8)
