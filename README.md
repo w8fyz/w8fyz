@@ -15,5 +15,10 @@
 - [protoco.ls](https://protoco.ls) Founder (Coming Soon)
 - [nocta.li](https://nocta.li) Founder (Coming Soon)
 
+#### More infos:
 
+- AS Number: [216147](https://bgp.tools/as/216147)
+- NameMC: [Fyzil](https://fr.namemc.com/profile/Fyzil.1)
+- TaleName: [fyz](https://talename.net/fyz)
+  
 #### > [chat with me here](https://discord.gg/w8)
