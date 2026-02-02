@@ -11,6 +11,7 @@
 - [Architect](https://github.com/w8fyz/Architect) Creator & Maintainer
 - [Fiber](https://github.com/w8fyz/Fiber) — Creator & Maintainer
 - [w8](https://discord.gg/w8) Founder & Owner
+- [need.gf](https://need.gf) Founder & Owner
 - [Croc-It](https://croc-it.fr) Developer
 - [protoco.ls](https://protoco.ls) Founder (Coming Soon)
 - [nocta.li](https://nocta.li) Founder (Coming Soon)
@@ -20,5 +21,6 @@
 - AS Number: [216147](https://bgp.tools/as/216147)
 - NameMC: [Fyzil](https://fr.namemc.com/profile/Fyzil.1)
 - TaleName: [fyz](https://talename.net/fyz)
+- NeedGF: [fyz](https://talename.net/fyz)
   
 #### > [chat with me here](https://discord.gg/w8)
