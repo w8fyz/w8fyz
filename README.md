@@ -9,7 +9,7 @@
 - [PVE4J](https://github.com/FreshPerf/PVE4J) Maintainer (FreshPerf)
 - [NameMC Extras](https://github.com/NameMC-Extras/NameMC-Extras) Contributor
 - [Architect](https://github.com/w8fyz/Architect) Creator & Maintainer
-- [Fiber](https://github.com/w8fyz/Fiber) — Creator & Maintainer
+- [Fiber](https://github.com/w8fyz/Fiber) Creator & Maintainer
 - [w8](https://discord.gg/w8) Founder & Owner
 - [need.gf](https://need.gf) Founder & Owner
 - [Croc-It](https://croc-it.fr) Developer
